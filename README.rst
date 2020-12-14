@@ -104,6 +104,17 @@ Language bindings
 Tools
 =====
 
+Development
+-----------
+
+- `Tree-sitter CLI <https://github.com/tree-sitter/tree-sitter/tree/master/cli>`__
+
+Editors
+-------
+
+- `Neovim <https://github.com/neovim/neovim>`__ - Available in 0.5 nightly releases.
+- `Zee <https://github.com/mcobzarenco/zee>`__
+
 Editor support
 --------------
 
