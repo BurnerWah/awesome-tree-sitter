@@ -61,7 +61,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 - [Vala](https://gitlab.gnome.org/albfan/vala-tree-sitter)
 - [Python](https://github.com/tree-sitter/py-tree-sitter)
 - [Go](https://github.com/smacker/go-tree-sitter)
-- https://github.com/stereobooster/tree-sitter-wasm ?
+- [WebAssembly](https://github.com/stereobooster/tree-sitter-wasm) ?
 
 ## Atom language support
 
