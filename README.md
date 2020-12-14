@@ -42,15 +42,26 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 - [BLIF](https://github.com/gaffe-logic/tree-sitter-blif)
 - [Clojure](https://github.com/oakmac/tree-sitter-clojure)
 - [Elm](https://github.com/razzeee/tree-sitter-elm)
+- [Eno](https://github.com/eno-lang/tree-sitter-eno)
+- [Fennel](https://github.com/travonted/tree-sitter-fennel)
 - [Fortran](https://github.com/stadelmanma/tree-sitter-fortran)
 - [GraphQL](https://github.com/dralletje/tree-sitter-graphql)
 - [LaTeX](https://github.com/yitzchak/tree-sitter-latex)
 - [Lua](https://github.com/Azganoth/tree-sitter-lua)
-- [PowerShell](https://github.com/jrsconfitto/tree-sitter-powershell)
-- [RGBASM](https://github.com/tobiasvl/tree-sitter-rgbasm)
-- [SytemRDL](https://github.com/SystemRDL/tree-sitter-systemrdl)
+- [Markdown](https://github.com/ikatyang/tree-sitter-markdown)
+- [Nix](https://github.com/cstrahan/tree-sitter-nix)
 - [pi](https://github.com/scmlab/tree-sitter-pi)
+- [PowerShell](https://github.com/jrsconfitto/tree-sitter-powershell)
+- [R](https://github.com/r-lib/tree-sitter-r)
+- [RGBASM](https://github.com/tobiasvl/tree-sitter-rgbasm)
 - [smcat](https://github.com/sverweij/tree-sitter-smcat)
+- [SPARQL](https://github.com/BonaBeavis/tree-sitter-sparql)
+- [SytemRDL](https://github.com/SystemRDL/tree-sitter-systemrdl)
+- [TOML](https://github.com/ikatyang/tree-sitter-toml)
+- [VHDL](https://github.com/alemuller/tree-sitter-vhdl)
+- [Vue](https://github.com/ikatyang/tree-sitter-vue)
+- [YAML](https://github.com/ikatyang/tree-sitter-yaml)
+- [WASM](https://github.com/wasm-lsp/tree-sitter-wasm)
 
 ## Language bindings
 
@@ -71,6 +82,8 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 ## Tools
 
 - [EMACS](https://github.com/karlotness/tree-sitter.el) An Emacs dynamic module exposing tree-sitter.
+- Neovim
+  - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Configurations for Neovim's tree-sitter integration
 - VSCode
   - [syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
   - [vscode-tree-sitter](https://github.com/georgewfraser/vscode-tree-sitter) Accurate syntax coloring for VSCode using tree-sitter
