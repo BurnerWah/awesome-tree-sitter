@@ -87,9 +87,12 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 
 ## Tools
 
-- [EMACS](https://github.com/karlotness/tree-sitter.el) An Emacs dynamic module exposing tree-sitter.
+### Editor support
+
+- Emacs
+  - [tree-sitter.el](https://github.com/karlotness/tree-sitter.el) An Emacs dynamic module exposing tree-sitter.
 - Neovim
   - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Configurations for Neovim's tree-sitter integration
 - VSCode
-  - [syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
+  - [syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) Syntax Highlighter extension for VSCode. Based on Tree-sitter.
   - [vscode-tree-sitter](https://github.com/georgewfraser/vscode-tree-sitter) Accurate syntax coloring for VSCode using tree-sitter
