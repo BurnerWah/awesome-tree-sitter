@@ -89,3 +89,26 @@ Language bindings
 - `Rust <https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_rust>`__
 - `Vala <https://gitlab.gnome.org/albfan/vala-tree-sitter>`__
 - `WebAssembly <https://github.com/stereobooster/tree-sitter-wasm>`__?
+
+Tools
+=====
+
+Editor support
+--------------
+
+- Emacs
+
+  - `emacs-tree-sitter <https://github.com/ubolonton/emacs-tree-sitter>`_
+    (`Homepage <https://ubolonton.github.io/emacs-tree-sitter/>`__)
+    Tree-sitter for Emacs
+
+- Neovim
+
+  - `nvim-treesitter <https://github.com/nvim-treesitter/nvim-treesitter>`_
+    Configurations for Neovim 0.5's tree-sitter integration
+
+- VSCode
+
+  - `Syntax Highlighter <https://github.com/EvgeniyPeshkov/syntax-highlighter>`__
+    (`Marketplace <https://marketplace.visualstudio.com/items?itemName=evgeniypeshkov.syntax-highlighter>`__)
+    Syntax Highlighter extension for VSCode.
