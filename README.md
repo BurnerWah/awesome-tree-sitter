@@ -3,7 +3,7 @@
 Curated list of awesome tree-sitter language grammars, bindings, tools, libraries
 
 - [tree-sitter.github.io](https://tree-sitter.github.io/tree-sitter/)
-- [tree-sitter GitHub Org](https://github.com/tree-sitter)
+- [@tree-sitter](https://github.com/tree-sitter)
 - [tree-sitter GitHub topic](https://github.com/topics/tree-sitter)
 
 ## Grammars
