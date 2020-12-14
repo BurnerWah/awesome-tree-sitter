@@ -38,8 +38,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 
 ### Others
 
-- [6809](https://github.com/georgjz/tree-sitter-6809)
-- [BLIF](https://github.com/gaffe-logic/tree-sitter-blif)
+- [6809 Assembly](https://github.com/georgjz/tree-sitter-6809)
 - [Clojure](https://github.com/oakmac/tree-sitter-clojure)
 - [Dart](https://github.com/UserNobody14/tree-sitter-dart)
 - [Elm](https://github.com/razzeee/tree-sitter-elm)
@@ -48,7 +47,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 - [Fennel](https://github.com/travonted/tree-sitter-fennel)
 - [Fortran](https://github.com/stadelmanma/tree-sitter-fortran)
 - [GraphQL](https://github.com/dralletje/tree-sitter-graphql)
-- [LaTeX](https://github.com/yitzchak/tree-sitter-latex)
+- [LaTeX](https://github.com/yitzchak/tree-sitter-latex) - *Archived*
 - [Lua](https://github.com/Azganoth/tree-sitter-lua)
 - [Markdown](https://github.com/ikatyang/tree-sitter-markdown)
 - [Nix](https://github.com/cstrahan/tree-sitter-nix)
@@ -73,10 +72,11 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 
 - [Go](https://github.com/smacker/go-tree-sitter)
 - [Haskell](https://github.com/tree-sitter/haskell-tree-sitter)
-- [JavaScript / Node](https://github.com/tree-sitter/node-tree-sitter)
+- [JavaScript (Node.js)](https://github.com/tree-sitter/node-tree-sitter)
+- [JavaScript (Web/WASM)](https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_web)
 - [Python](https://github.com/tree-sitter/py-tree-sitter)
 - [Ruby](https://github.com/tree-sitter/ruby-tree-sitter)
-- [Rust](https://github.com/tree-sitter/rust-tree-sitter)
+- [Rust](https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_rust)
 - [Vala](https://gitlab.gnome.org/albfan/vala-tree-sitter)
 - [WebAssembly](https://github.com/stereobooster/tree-sitter-wasm) ?
 
