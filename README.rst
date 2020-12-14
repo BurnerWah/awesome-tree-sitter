@@ -76,3 +76,16 @@ Other
 - `Vue <https://github.com/ikatyang/tree-sitter-vue>`__
 - `YAML <https://github.com/ikatyang/tree-sitter-yaml>`__
 - `WASM <https://github.com/wasm-lsp/tree-sitter-wasm>`__
+
+Language bindings
+=================
+
+- `Go <https://github.com/smacker/go-tree-sitter>`__
+- `Haskell <https://github.com/tree-sitter/haskell-tree-sitter>`__
+- `JavaScript (Node.js) <https://github.com/tree-sitter/node-tree-sitter>`__
+- `JavaScript (Web/WASM) <https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_web>`__
+- `Python <https://github.com/tree-sitter/py-tree-sitter>`__
+- `Ruby <https://github.com/tree-sitter/ruby-tree-sitter>`__
+- `Rust <https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_rust>`__
+- `Vala <https://gitlab.gnome.org/albfan/vala-tree-sitter>`__
+- `WebAssembly <https://github.com/stereobooster/tree-sitter-wasm>`__?
