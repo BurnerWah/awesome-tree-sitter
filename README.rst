@@ -43,3 +43,36 @@ Tree Sitter Org
 - `Swift <https://github.com/tree-sitter/tree-sitter-swift>`__
 - `TypeScript <https://github.com/tree-sitter/tree-sitter-typescript>`__
 - `Verilog <https://github.com/tree-sitter/tree-sitter-verilog>`__
+
+Other
+-----
+
+- `6809 Assembly <https://github.com/georgjz/tree-sitter-6809>`__
+- `Clojure <https://github.com/oakmac/tree-sitter-clojure>`__
+- `Dart <https://github.com/UserNobody14/tree-sitter-dart>`__
+- `Elm <https://github.com/razzeee/tree-sitter-elm>`__
+- `Eno <https://github.com/eno-lang/tree-sitter-eno>`__
+- `Erlang <https://github.com/AbstractMachinesLab/tree-sitter-erlang>`__
+- `Fennel <https://github.com/travonted/tree-sitter-fennel>`__
+- `Fortran <https://github.com/stadelmanma/tree-sitter-fortran>`__
+- `GraphQL <https://github.com/dralletje/tree-sitter-graphql>`__
+- `LaTeX <https://github.com/yitzchak/tree-sitter-latex>`__ - *Archived*
+- `Lua <https://github.com/Azganoth/tree-sitter-lua>`__
+- `Markdown <https://github.com/ikatyang/tree-sitter-markdown>`__
+- `Nix <https://github.com/cstrahan/tree-sitter-nix>`__
+- `Ocamllex <https://github.com/atom-ocaml/tree-sitter-ocamllex>`__
+- `pi <https://github.com/scmlab/tree-sitter-pi>`__
+- `PowerShell <https://github.com/jrsconfitto/tree-sitter-powershell>`__
+- `R <https://github.com/r-lib/tree-sitter-r>`__
+- `reStructuredText <https://github.com/stsewd/tree-sitter-rst>`__
+- `RGBASM <https://github.com/tobiasvl/tree-sitter-rgbasm>`__
+- `smcat <https://github.com/sverweij/tree-sitter-smcat>`__
+- `SPARQL <https://github.com/BonaBeavis/tree-sitter-sparql>`__
+- `SystemRDL <https://github.com/SystemRDL/tree-sitter-systemrdl>`__
+- `Teal <https://github.com/euclidianAce/tree-sitter-teal>`__
+- `TOML <https://github.com/ikatyang/tree-sitter-toml>`__
+- `Tree-sitter Query <https://github.com/nvim-treesitter/tree-sitter-query>`__
+- `VHDL <https://github.com/alemuller/tree-sitter-vhdl>`__
+- `Vue <https://github.com/ikatyang/tree-sitter-vue>`__
+- `YAML <https://github.com/ikatyang/tree-sitter-yaml>`__
+- `WASM <https://github.com/wasm-lsp/tree-sitter-wasm>`__
