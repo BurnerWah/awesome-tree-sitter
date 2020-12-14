@@ -121,5 +121,13 @@ Editor support
 - VSCode
 
   - `Syntax Highlighter <https://github.com/EvgeniyPeshkov/syntax-highlighter>`__
-    (`Marketplace <https://marketplace.visualstudio.com/items?itemName=evgeniypeshkov.syntax-highlighter>`__)
+    |vscode-evgeniypeshkov.syntax-highlighter|_
     Syntax Highlighter extension for VSCode.
+
+
+.. |vscode-evgeniypeshkov.syntax-highlighter| replace:: |icon-vscode|
+.. _vscode-evgeniypeshkov.syntax-highlighter: https://marketplace.visualstudio.com/items?itemName=evgeniypeshkov.syntax-highlighter
+
+.. |icon-vscode| image:: assets/simpleicons/visualstudiocode.svg
+   :alt: VSCode marketplace
+   :height: 12px
