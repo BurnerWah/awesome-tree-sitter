@@ -35,9 +35,11 @@ Tree Sitter Org
 - `Julia <https://github.com/tree-sitter/tree-sitter-julia>`__
 - `OCaml <https://github.com/tree-sitter/tree-sitter-ocaml>`__
 - `PHP <https://github.com/tree-sitter/tree-sitter-php>`__
-- `Python <https://github.com/tree-sitter/tree-sitter-python>`__
+- `Python <https://github.com/tree-sitter/tree-sitter-python>`__ -
+  `Atom extension <https://atom.io/packages/language-python>`__
 - `Regex <https://github.com/tree-sitter/tree-sitter-regex>`__
-- `Ruby <https://github.com/tree-sitter/tree-sitter-ruby>`__
+- `Ruby <https://github.com/tree-sitter/tree-sitter-ruby>`__ -
+  `Atom extension <https://atom.io/packages/language-ruby>`__
 - `Rust <https://github.com/tree-sitter/tree-sitter-rust>`__
 - `Scala <https://github.com/tree-sitter/tree-sitter-scala>`__
 - `Swift <https://github.com/tree-sitter/tree-sitter-swift>`__
