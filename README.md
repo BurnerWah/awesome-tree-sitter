@@ -2,9 +2,9 @@
 
 Curated list of awesome tree-sitter language grammars, bindings, tools, libraries
 
-- https://tree-sitter.github.io/tree-sitter/
-- https://github.com/tree-sitter
-- https://github.com/topics/tree-sitter
+- [tree-sitter.github.io](https://tree-sitter.github.io/tree-sitter/)
+- [tree-sitter GitHub Org](https://github.com/tree-sitter)
+- [tree-sitter GitHub topic](https://github.com/topics/tree-sitter)
 
 ## Grammars
 
@@ -30,7 +30,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 - [Scala](https://github.com/tree-sitter/tree-sitter-scala)
 - [Java](https://github.com/tree-sitter/tree-sitter-java)
 - [Agda](https://github.com/tree-sitter/tree-sitter-agda)
-- [C-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp)
+- [C#](https://github.com/tree-sitter/tree-sitter-c-sharp)
 - [Swift](https://github.com/tree-sitter/tree-sitter-swift) - 2015
 - [Julia](https://github.com/tree-sitter/tree-sitter-julia)
 - [JSDoc](https://github.com/tree-sitter/tree-sitter-jsdoc)
@@ -59,7 +59,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 - [Rust](https://github.com/tree-sitter/rust-tree-sitter)
 - [Ruby](https://github.com/tree-sitter/ruby-tree-sitter)
 - [Vala](https://gitlab.gnome.org/albfan/vala-tree-sitter)
-- [Python 3](https://github.com/tree-sitter/py-tree-sitter)
+- [Python](https://github.com/tree-sitter/py-tree-sitter)
 - [Go](https://github.com/smacker/go-tree-sitter)
 - https://github.com/stereobooster/tree-sitter-wasm ?
 
