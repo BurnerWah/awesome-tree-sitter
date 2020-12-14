@@ -2,7 +2,7 @@
 
 Curated list of awesome tree-sitter language grammars, bindings, tools, libraries
 
-- http://tree-sitter.github.io/tree-sitter/
+- https://tree-sitter.github.io/tree-sitter/
 - https://github.com/tree-sitter
 - https://github.com/topics/tree-sitter
 
