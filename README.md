@@ -27,9 +27,9 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 - [Julia](https://github.com/tree-sitter/tree-sitter-julia)
 - [OCaml](https://github.com/tree-sitter/tree-sitter-ocaml)
 - [PHP](https://github.com/tree-sitter/tree-sitter-php)
-- [Python](https://github.com/tree-sitter/tree-sitter-python)
+- [Python](https://github.com/tree-sitter/tree-sitter-python) - [Atom extension](https://github.com/atom/language-python)
 - [RegEx](https://github.com/tree-sitter/tree-sitter-regex)
-- [Ruby](https://github.com/tree-sitter/tree-sitter-ruby)
+- [Ruby](https://github.com/tree-sitter/tree-sitter-ruby) - [Atom extension](https://github.com/atom/language-ruby)
 - [Rust](https://github.com/tree-sitter/tree-sitter-rust)
 - [Scala](https://github.com/tree-sitter/tree-sitter-scala)
 - [Swift](https://github.com/tree-sitter/tree-sitter-swift) - 2015
@@ -80,16 +80,14 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 - [Vala](https://gitlab.gnome.org/albfan/vala-tree-sitter)
 - [WebAssembly](https://github.com/stereobooster/tree-sitter-wasm) ?
 
-## Atom language support
-
-- [Python](https://github.com/atom/language-python)
-- [Ruby](https://github.com/atom/language-ruby)
-
 ## Tools
 
-- [EMACS](https://github.com/karlotness/tree-sitter.el) An Emacs dynamic module exposing tree-sitter.
+### Editor support
+
+- Emacs
+  - [tree-sitter.el](https://github.com/karlotness/tree-sitter.el) An Emacs dynamic module exposing tree-sitter.
 - Neovim
   - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Configurations for Neovim's tree-sitter integration
 - VSCode
-  - [syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
+  - [syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) Syntax Highlighter extension for VSCode. Based on Tree-sitter.
   - [vscode-tree-sitter](https://github.com/georgewfraser/vscode-tree-sitter) Accurate syntax coloring for VSCode using tree-sitter
