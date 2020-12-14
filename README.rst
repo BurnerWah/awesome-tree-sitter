@@ -36,15 +36,24 @@ Tree Sitter Org
 - `OCaml <https://github.com/tree-sitter/tree-sitter-ocaml>`__
 - `PHP <https://github.com/tree-sitter/tree-sitter-php>`__
 - `Python <https://github.com/tree-sitter/tree-sitter-python>`__ -
-  `Atom extension <https://atom.io/packages/language-python>`__
+  |atom-language-python|_
 - `Regex <https://github.com/tree-sitter/tree-sitter-regex>`__
 - `Ruby <https://github.com/tree-sitter/tree-sitter-ruby>`__ -
-  `Atom extension <https://atom.io/packages/language-ruby>`__
+  |atom-language-ruby|_
 - `Rust <https://github.com/tree-sitter/tree-sitter-rust>`__
 - `Scala <https://github.com/tree-sitter/tree-sitter-scala>`__
 - `Swift <https://github.com/tree-sitter/tree-sitter-swift>`__
 - `TypeScript <https://github.com/tree-sitter/tree-sitter-typescript>`__
 - `Verilog <https://github.com/tree-sitter/tree-sitter-verilog>`__
+
+.. |atom-language-python| replace:: |icon-atom|
+.. _atom-language-python: https://atom.io/packages/language-python
+.. |atom-language-ruby| replace:: |icon-atom|
+.. _atom-language-ruby: https://atom.io/packages/language-ruby
+
+.. |icon-atom| image:: assets/simpleicons/atom.svg
+   :alt: Atom extension
+   :height: 12px
 
 Other
 -----
