@@ -27,9 +27,9 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 - [Julia](https://github.com/tree-sitter/tree-sitter-julia)
 - [OCaml](https://github.com/tree-sitter/tree-sitter-ocaml)
 - [PHP](https://github.com/tree-sitter/tree-sitter-php)
-- [Python](https://github.com/tree-sitter/tree-sitter-python)
+- [Python](https://github.com/tree-sitter/tree-sitter-python) - [Atom extension](https://github.com/atom/language-python)
 - [RegEx](https://github.com/tree-sitter/tree-sitter-regex)
-- [Ruby](https://github.com/tree-sitter/tree-sitter-ruby)
+- [Ruby](https://github.com/tree-sitter/tree-sitter-ruby) - [Atom extension](https://github.com/atom/language-ruby)
 - [Rust](https://github.com/tree-sitter/tree-sitter-rust)
 - [Scala](https://github.com/tree-sitter/tree-sitter-scala)
 - [Swift](https://github.com/tree-sitter/tree-sitter-swift) - 2015
@@ -79,11 +79,6 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 - [Rust](https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_rust)
 - [Vala](https://gitlab.gnome.org/albfan/vala-tree-sitter)
 - [WebAssembly](https://github.com/stereobooster/tree-sitter-wasm) ?
-
-## Atom language support
-
-- [Python](https://github.com/atom/language-python)
-- [Ruby](https://github.com/atom/language-ruby)
 
 ## Tools
 
